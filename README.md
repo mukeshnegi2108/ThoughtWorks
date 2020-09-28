@@ -5,7 +5,7 @@ This project was created on k8s version: v1.19.2
 
 ## Build:
 Official docker images used:\
-    mediawiki: https://hub.docker.com/_/mediawiki\
+    mediawiki: https://hub.docker.com/_/mediawiki \
     mariadb: https://hub.docker.com/_/mariadb
 
 ## Deployment
